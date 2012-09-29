@@ -1,0 +1,2 @@
+sudo rm -r app/cache/*
+php app/console cache:clear --no-warmup --env=dev

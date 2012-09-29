@@ -1,0 +1,5 @@
+usuario_compras:
+    pattern:    /compras
+    defaults: { _controller: UsuarioBundle:Default:compras }
+
+
